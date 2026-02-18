@@ -1,0 +1,362 @@
+{
+    "staffs": [
+        {
+            "id": 1,
+            "agency": "Agency_1",
+            "fixedShiftGroup": true,
+            "alwaysOffOnPH": false
+        },
+        {
+            "id": 2,
+            "agency": "Agency_1",
+            "fixedShiftGroup": false,
+            "alwaysOffOnPH": true
+        },
+        {
+            "id": 3,
+            "agency": "Agency_1",
+            "fixedShiftGroup": false,
+            "alwaysOffOnPH": true
+        },
+        {
+            "id": 4,
+            "agency": "Agency_1",
+            "fixedShiftGroup": false,
+            "alwaysOffOnPH": true
+        },
+        {
+            "id": 5,
+            "agency": "Agency_3",
+            "fixedShiftGroup": false,
+            "alwaysOffOnPH": false
+        },
+        {
+            "id": 6,
+            "agency": "Agency_3",
+            "fixedShiftGroup": false,
+            "alwaysOffOnPH": false
+        },
+        {
+            "id": 7,
+            "agency": "Agency_2",
+            "fixedShiftGroup": false,
+            "alwaysOffOnPH": false
+        },
+        {
+            "id": 8,
+            "agency": "Agency_2",
+            "fixedShiftGroup": false,
+            "alwaysOffOnPH": false
+        },
+        {
+            "id": 9,
+            "agency": "Agency_2",
+            "fixedShiftGroup": false,
+            "alwaysOffOnPH": false
+        }
+    ],
+    "shifts": [
+        {
+            "id": "M1",
+            "duration": 8,
+            "workingShift": true,
+            "shiftType": "morning"
+        },
+        {
+            "id": "M2",
+            "duration": 7,
+            "workingShift": true,
+            "shiftType": "morning"
+        },
+        {
+            "id": "M3",
+            "duration": 4,
+            "workingShift": true,
+            "shiftType": "morning"
+        },
+        {
+            "id": "A1",
+            "duration": 8,
+            "workingShift": true,
+            "shiftType": "afternoon"
+        },
+        {
+            "id": "A2",
+            "duration": 7,
+            "workingShift": true,
+            "shiftType": "afternoon"
+        },
+        {
+            "id": "DO",
+            "duration": 0,
+            "workingShift": true,
+            "shiftType": "other"
+        },
+        {
+            "id": "PH",
+            "duration": 8,
+            "workingShift": false,
+            "shiftType": "other"
+        },
+        {
+            "id": "Empty",
+            "durarion": 0,
+            "workingShift": false,
+            "shiftType": "other"
+        }
+    ],
+    "days": [
+        {
+            "date": "2019-12-09",
+            "id": 0,
+            "dayOfWeek": 0,
+            "dayType": "weekday",
+            "week": 1,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-10",
+            "id": 1,
+            "dayOfWeek": 1,
+            "dayType": "weekday",
+            "week": 1,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-11",
+            "id": 2,
+            "dayOfWeek": 2,
+            "dayType": "weekday",
+            "week": 1,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-12",
+            "id": 3,
+            "dayOfWeek": 3,
+            "dayType": "weekday",
+            "week": 1,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-13",
+            "id": 4,
+            "dayOfWeek": 4,
+            "dayType": "weekday",
+            "week": 1,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-14",
+            "id": 5,
+            "dayOfWeek": 5,
+            "dayType": "weekday",
+            "week": 1,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-15",
+            "id": 6,
+            "dayOfWeek": 6,
+            "dayType": "weekend",
+            "week": 1,
+            "morningShiftCov": 3,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-16",
+            "id": 7,
+            "dayOfWeek": 0,
+            "dayType": "weekday",
+            "week": 2,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-17",
+            "id": 8,
+            "dayOfWeek": 1,
+            "dayType": "weekday",
+            "week": 2,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-18",
+            "id": 9,
+            "dayOfWeek": 2,
+            "dayType": "weekday",
+            "week": 2,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-19",
+            "id": 10,
+            "dayOfWeek": 3,
+            "dayType": "weekday",
+            "week": 2,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-20",
+            "id": 11,
+            "dayOfWeek": 4,
+            "dayType": "weekday",
+            "week": 2,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-21",
+            "id": 12,
+            "dayOfWeek": 5,
+            "dayType": "weekday",
+            "week": 2,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-22",
+            "id": 13,
+            "dayOfWeek": 6,
+            "dayType": "weekend",
+            "week": 2,
+            "morningShiftCov": 3,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-23",
+            "id": 14,
+            "dayOfWeek": 0,
+            "dayType": "weekday",
+            "week": 3,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-24",
+            "id": 15,
+            "dayOfWeek": 1,
+            "dayType": "weekday",
+            "week": 3,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-25",
+            "id": 16,
+            "dayOfWeek": 2,
+            "dayType": "weekday",
+            "week": 3,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-26",
+            "id": 17,
+            "dayOfWeek": 3,
+            "dayType": "weekday",
+            "week": 3,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-27",
+            "id": 18,
+            "dayOfWeek": 4,
+            "dayType": "weekday",
+            "week": 3,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-28",
+            "id": 19,
+            "dayOfWeek": 5,
+            "dayType": "weekday",
+            "week": 3,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-29",
+            "id": 20,
+            "dayOfWeek": 6,
+            "dayType": "weekend",
+            "week": 3,
+            "morningShiftCov": 3,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-30",
+            "id": 21,
+            "dayOfWeek": 0,
+            "dayType": "weekday",
+            "week": 4,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2019-12-31",
+            "id": 22,
+            "dayOfWeek": 1,
+            "dayType": "PH",
+            "week": 4,
+            "morningShiftCov": 3,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2020-01-01",
+            "id": 23,
+            "dayOfWeek": 2,
+            "dayType": "PH",
+            "week": 4,
+            "morningShiftCov": 3,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2020-01-02",
+            "id": 24,
+            "dayOfWeek": 3,
+            "dayType": "weekday",
+            "week": 4,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2020-01-03",
+            "id": 25,
+            "dayOfWeek": 4,
+            "dayType": "weekday",
+            "week": 4,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2020-01-04",
+            "id": 26,
+            "dayOfWeek": 5,
+            "dayType": "weekday",
+            "week": 4,
+            "morningShiftCov": 4,
+            "afternoonShiftCov": 3
+        },
+        {
+            "date": "2020-01-05",
+            "id": 27,
+            "dayOfWeek": 6,
+            "dayType": "weekend",
+            "week": 4,
+            "morningShiftCov": 3,
+            "afternoonShiftCov": 3
+        }
+    ]
+}
