@@ -27,6 +27,7 @@ for idx in range(staff_num):
                 "agency": default_agency,
                 "fixedShiftGroup": False,
                 "alwaysOffOnPH": False, 
+                "desiredHalfDayShift": False,
             }
     staffs.append(staff)
 
@@ -39,19 +40,21 @@ for staff in staffs:
         staff["fixedShiftGroup"] = True
     elif staff["id"] in [2, 3, 4]:
         staff["alwaysOffOnPH"] = True
+    elif staff["id"] in [1, 3, 6]:
+        staff["desiredHalfDayShift"] = True
 
 #-----Generate dummy data------
-dummy = [
-    {"id": 1,
-     "agency": "agency_1"
-     },
-     {"id": 2,
-     "agency": "agency_2"
-     },
-     {"id": 3,
-     "agency": "agency_3"
-     },
-]
+# dummy = [
+#     {"id": 1,
+#      "agency": "agency_1"
+#      },
+#      {"id": 2,
+#      "agency": "agency_2"
+#      },
+#      {"id": 3,
+#      "agency": "agency_3"
+#      },
+# ]
 
 
 #-----Generate shifts data-----
@@ -60,7 +63,7 @@ shifts = [
         "id": "M1",
         "duration": 8,
         "workingShift": True,
-        "shiftType": "morning"
+        "shiftType": "morning",
     },
     {
         "id": "M2",
@@ -100,13 +103,13 @@ shifts = [
     },
     {
         "id": "Empty",
-        "durarion": 0,
+        "duration": 0,
         "workingShift": False,
         "shiftType": "other"
     },
 ]
 
-days = []
+periods = []
 day_count = 0
 
 for i in range(days_num):
@@ -119,27 +122,34 @@ for i in range(days_num):
                 "week": day_count // 7 + 1,
                 "morningShiftCov": default_morning_shift_coverage,
                 "afternoonShiftCov": default_afternoon_shift_coverage,
+                "isHoliday": False,
             }
     day_count += 1
-    days.append(day)
+    periods.append(day)
 
 
-for day in days:
+for day in periods:
     if day["dayOfWeek"] > 5:
         day["dayType"] = "weekend"
         day["morningShiftCov"] = 3
-    elif day["date"] in ["2019-24-12", "2019-25-12", "2019-12-31", "2020-01-01"]:
-        day["dayType"] = "PH"
+    elif day["date"] in ["2019-12-24", "2019-12-25", "2019-12-31", "2020-01-01"]:
+        day["dayType"] = "Holiday"
+        day["isHoliday"] = True
         day["morningShiftCov"] = 3
 
 scheduling_data = {
     "staffs": staffs,
-    "dummy": dummy,
     "shifts": shifts,
-    "days": days
+    "periods": periods
 }
 
 with open("scheduling_data.json", "w") as json_file:
     json.dump(scheduling_data, json_file, indent=4)
 
-print(shifts[0]["id"])
+# with open("scheduling_data.json", "r") as f:
+#     scheduling_data = json.load(f)
+
+# shifts = scheduling_data["shifts"]
+# for shift in shifts:
+#     print(shift['duration'])
+

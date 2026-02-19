@@ -3,7 +3,7 @@ import docplex.mp.model as cpx
 from ortools.linear_solver import pywraplp
 
 
-input_data_dir = "C:\\Users\\trinh\\WS_Python\\genesix-assignment\\rostering-assignment\\monthly_data.xlsx"
+input_data_dir = "C:\\Users\\trinh\WS_Rust\\ALNS\\monthly_data.xlsx"
 monthly_data = pd.read_excel(input_data_dir, header=None, sheet_name="input_data")
 
 SHIFT_TYPE_MORNING = 0
