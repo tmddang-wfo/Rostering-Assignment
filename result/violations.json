@@ -1,0 +1,798 @@
+{
+    "week_1": {
+        "Add_hours": [],
+        "Minus_hours": [],
+        "DO-AM_shifts": [],
+        "PH-AM_shifts": [],
+        "3AM_shifts": [],
+        "+AM_General_Cov": [
+            {
+                "key": "day_0",
+                "slack": 1.0
+            },
+            {
+                "key": "day_2",
+                "slack": 2.0
+            },
+            {
+                "key": "day_5",
+                "slack": 1.0
+            },
+            {
+                "key": "day_6",
+                "slack": 1.0
+            }
+        ],
+        "-AM_General_Cov": [],
+        "+PM_General_Cov": [
+            {
+                "key": "day_3",
+                "slack": 1.0
+            }
+        ],
+        "-PM_General_Cov": [],
+        "Morning_Agency_Cov": [
+            {
+                "key": "('day_0', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_3')",
+                "slack": 1.0
+            }
+        ],
+        "Afternoon_Agency_Cov": [
+            {
+                "key": "('day_0', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_3')",
+                "slack": 1.0
+            }
+        ]
+    },
+    "week_2": {
+        "Add_hours": [],
+        "Minus_hours": [],
+        "DO-AM_shifts": [],
+        "PH-AM_shifts": [],
+        "3AM_shifts": [],
+        "+AM_General_Cov": [
+            {
+                "key": "day_7",
+                "slack": 1.0
+            },
+            {
+                "key": "day_9",
+                "slack": 2.0
+            },
+            {
+                "key": "day_12",
+                "slack": 1.0
+            },
+            {
+                "key": "day_13",
+                "slack": 1.0
+            }
+        ],
+        "-AM_General_Cov": [],
+        "+PM_General_Cov": [
+            {
+                "key": "day_10",
+                "slack": 1.0
+            }
+        ],
+        "-PM_General_Cov": [],
+        "Morning_Agency_Cov": [
+            {
+                "key": "('day_0', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_3')",
+                "slack": 1.0
+            }
+        ],
+        "Afternoon_Agency_Cov": [
+            {
+                "key": "('day_0', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_3')",
+                "slack": 1.0
+            }
+        ]
+    },
+    "week_3": {
+        "Add_hours": [],
+        "Minus_hours": [],
+        "DO-AM_shifts": [],
+        "PH-AM_shifts": [],
+        "3AM_shifts": [],
+        "+AM_General_Cov": [
+            {
+                "key": "day_17",
+                "slack": 1.0
+            }
+        ],
+        "-AM_General_Cov": [],
+        "+PM_General_Cov": [
+            {
+                "key": "day_19",
+                "slack": 1.0
+            }
+        ],
+        "-PM_General_Cov": [],
+        "Morning_Agency_Cov": [
+            {
+                "key": "('day_0', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_3')",
+                "slack": 1.0
+            }
+        ],
+        "Afternoon_Agency_Cov": [
+            {
+                "key": "('day_0', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_3')",
+                "slack": 1.0
+            }
+        ]
+    },
+    "week_4": {
+        "Add_hours": [],
+        "Minus_hours": [],
+        "DO-AM_shifts": [],
+        "PH-AM_shifts": [],
+        "3AM_shifts": [],
+        "+AM_General_Cov": [
+            {
+                "key": "day_24",
+                "slack": 1.0
+            }
+        ],
+        "-AM_General_Cov": [],
+        "+PM_General_Cov": [
+            {
+                "key": "day_26",
+                "slack": 1.0
+            }
+        ],
+        "-PM_General_Cov": [],
+        "Morning_Agency_Cov": [
+            {
+                "key": "('day_0', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_3')",
+                "slack": 1.0
+            }
+        ],
+        "Afternoon_Agency_Cov": [
+            {
+                "key": "('day_0', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_0', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_1', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_2', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_3', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_4', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_5', 'agency_3')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_1')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_2')",
+                "slack": 1.0
+            },
+            {
+                "key": "('day_6', 'agency_3')",
+                "slack": 1.0
+            }
+        ]
+    }
+}

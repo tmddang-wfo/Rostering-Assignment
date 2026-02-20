@@ -1,0 +1,3870 @@
+{
+    "roster_per_day": [
+        {
+            "day_0": [
+                {
+                    "day": "2019-12-09",
+                    "week": 1,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A1"
+                },
+                {
+                    "day": "2019-12-09",
+                    "week": 1,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-09",
+                    "week": 1,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-09",
+                    "week": 1,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-09",
+                    "week": 1,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-09",
+                    "week": 1,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-09",
+                    "week": 1,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-09",
+                    "week": 1,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-09",
+                    "week": 1,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                }
+            ],
+            "day_1": [
+                {
+                    "day": "2019-12-10",
+                    "week": 1,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-10",
+                    "week": 1,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-10",
+                    "week": 1,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-10",
+                    "week": 1,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-10",
+                    "week": 1,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-10",
+                    "week": 1,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-10",
+                    "week": 1,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-10",
+                    "week": 1,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-10",
+                    "week": 1,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                }
+            ],
+            "day_2": [
+                {
+                    "day": "2019-12-11",
+                    "week": 1,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-11",
+                    "week": 1,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-11",
+                    "week": 1,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-11",
+                    "week": 1,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-11",
+                    "week": 1,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "A1"
+                },
+                {
+                    "day": "2019-12-11",
+                    "week": 1,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-11",
+                    "week": 1,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-11",
+                    "week": 1,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-11",
+                    "week": 1,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                }
+            ],
+            "day_3": [
+                {
+                    "day": "2019-12-12",
+                    "week": 1,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-12",
+                    "week": 1,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-12",
+                    "week": 1,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-12",
+                    "week": 1,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-12",
+                    "week": 1,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-12",
+                    "week": 1,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-12",
+                    "week": 1,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "A1"
+                },
+                {
+                    "day": "2019-12-12",
+                    "week": 1,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-12",
+                    "week": 1,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                }
+            ],
+            "day_4": [
+                {
+                    "day": "2019-12-13",
+                    "week": 1,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-13",
+                    "week": 1,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-13",
+                    "week": 1,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-13",
+                    "week": 1,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-13",
+                    "week": 1,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-13",
+                    "week": 1,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-13",
+                    "week": 1,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-13",
+                    "week": 1,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-13",
+                    "week": 1,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                }
+            ],
+            "day_5": [
+                {
+                    "day": "2019-12-14",
+                    "week": 1,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-14",
+                    "week": 1,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-14",
+                    "week": 1,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-14",
+                    "week": 1,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-14",
+                    "week": 1,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-14",
+                    "week": 1,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-14",
+                    "week": 1,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-14",
+                    "week": 1,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-14",
+                    "week": 1,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                }
+            ],
+            "day_6": [
+                {
+                    "day": "2019-12-15",
+                    "week": 1,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-15",
+                    "week": 1,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-15",
+                    "week": 1,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-15",
+                    "week": 1,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-15",
+                    "week": 1,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-15",
+                    "week": 1,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-15",
+                    "week": 1,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-15",
+                    "week": 1,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-15",
+                    "week": 1,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "DO"
+                }
+            ]
+        },
+        {
+            "day_7": [
+                {
+                    "day": "2019-12-16",
+                    "week": 2,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A1"
+                },
+                {
+                    "day": "2019-12-16",
+                    "week": 2,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-16",
+                    "week": 2,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-16",
+                    "week": 2,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-16",
+                    "week": 2,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-16",
+                    "week": 2,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-16",
+                    "week": 2,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-16",
+                    "week": 2,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-16",
+                    "week": 2,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                }
+            ],
+            "day_8": [
+                {
+                    "day": "2019-12-17",
+                    "week": 2,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-17",
+                    "week": 2,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-17",
+                    "week": 2,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-17",
+                    "week": 2,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-17",
+                    "week": 2,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-17",
+                    "week": 2,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-17",
+                    "week": 2,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-17",
+                    "week": 2,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-17",
+                    "week": 2,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                }
+            ],
+            "day_9": [
+                {
+                    "day": "2019-12-18",
+                    "week": 2,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-18",
+                    "week": 2,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-18",
+                    "week": 2,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-18",
+                    "week": 2,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-18",
+                    "week": 2,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "A1"
+                },
+                {
+                    "day": "2019-12-18",
+                    "week": 2,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-18",
+                    "week": 2,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-18",
+                    "week": 2,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-18",
+                    "week": 2,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                }
+            ],
+            "day_10": [
+                {
+                    "day": "2019-12-19",
+                    "week": 2,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-19",
+                    "week": 2,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-19",
+                    "week": 2,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-19",
+                    "week": 2,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-19",
+                    "week": 2,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-19",
+                    "week": 2,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-19",
+                    "week": 2,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "A1"
+                },
+                {
+                    "day": "2019-12-19",
+                    "week": 2,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-19",
+                    "week": 2,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                }
+            ],
+            "day_11": [
+                {
+                    "day": "2019-12-20",
+                    "week": 2,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-20",
+                    "week": 2,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-20",
+                    "week": 2,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-20",
+                    "week": 2,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-20",
+                    "week": 2,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-20",
+                    "week": 2,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-20",
+                    "week": 2,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-20",
+                    "week": 2,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-20",
+                    "week": 2,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                }
+            ],
+            "day_12": [
+                {
+                    "day": "2019-12-21",
+                    "week": 2,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-21",
+                    "week": 2,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-21",
+                    "week": 2,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-21",
+                    "week": 2,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-21",
+                    "week": 2,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-21",
+                    "week": 2,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-21",
+                    "week": 2,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-21",
+                    "week": 2,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-21",
+                    "week": 2,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                }
+            ],
+            "day_13": [
+                {
+                    "day": "2019-12-22",
+                    "week": 2,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-22",
+                    "week": 2,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-22",
+                    "week": 2,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-22",
+                    "week": 2,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-22",
+                    "week": 2,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-22",
+                    "week": 2,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-22",
+                    "week": 2,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-22",
+                    "week": 2,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-22",
+                    "week": 2,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "DO"
+                }
+            ]
+        },
+        {
+            "day_14": [
+                {
+                    "day": "2019-12-23",
+                    "week": 3,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A1"
+                },
+                {
+                    "day": "2019-12-23",
+                    "week": 3,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-23",
+                    "week": 3,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-23",
+                    "week": 3,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-23",
+                    "week": 3,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-23",
+                    "week": 3,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-23",
+                    "week": 3,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-23",
+                    "week": 3,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-23",
+                    "week": 3,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                }
+            ],
+            "day_15": [
+                {
+                    "day": "2019-12-24",
+                    "week": 3,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-24",
+                    "week": 3,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "PH"
+                },
+                {
+                    "day": "2019-12-24",
+                    "week": 3,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "PH"
+                },
+                {
+                    "day": "2019-12-24",
+                    "week": 3,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "PH"
+                },
+                {
+                    "day": "2019-12-24",
+                    "week": 3,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "A1"
+                },
+                {
+                    "day": "2019-12-24",
+                    "week": 3,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-24",
+                    "week": 3,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-24",
+                    "week": 3,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-24",
+                    "week": 3,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                }
+            ],
+            "day_16": [
+                {
+                    "day": "2019-12-25",
+                    "week": 3,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-25",
+                    "week": 3,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "PH"
+                },
+                {
+                    "day": "2019-12-25",
+                    "week": 3,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "PH"
+                },
+                {
+                    "day": "2019-12-25",
+                    "week": 3,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "PH"
+                },
+                {
+                    "day": "2019-12-25",
+                    "week": 3,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-25",
+                    "week": 3,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-25",
+                    "week": 3,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-25",
+                    "week": 3,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-25",
+                    "week": 3,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A1"
+                }
+            ],
+            "day_17": [
+                {
+                    "day": "2019-12-26",
+                    "week": 3,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-26",
+                    "week": 3,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-26",
+                    "week": 3,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-26",
+                    "week": 3,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-26",
+                    "week": 3,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-26",
+                    "week": 3,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-26",
+                    "week": 3,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-26",
+                    "week": 3,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-26",
+                    "week": 3,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                }
+            ],
+            "day_18": [
+                {
+                    "day": "2019-12-27",
+                    "week": 3,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-27",
+                    "week": 3,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-27",
+                    "week": 3,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-27",
+                    "week": 3,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-27",
+                    "week": 3,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "A1"
+                },
+                {
+                    "day": "2019-12-27",
+                    "week": 3,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-27",
+                    "week": 3,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-27",
+                    "week": 3,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-27",
+                    "week": 3,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                }
+            ],
+            "day_19": [
+                {
+                    "day": "2019-12-28",
+                    "week": 3,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-28",
+                    "week": 3,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-28",
+                    "week": 3,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-28",
+                    "week": 3,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-28",
+                    "week": 3,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-28",
+                    "week": 3,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-28",
+                    "week": 3,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-28",
+                    "week": 3,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-28",
+                    "week": 3,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A1"
+                }
+            ],
+            "day_20": [
+                {
+                    "day": "2019-12-29",
+                    "week": 3,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-29",
+                    "week": 3,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-29",
+                    "week": 3,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-29",
+                    "week": 3,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-29",
+                    "week": 3,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-29",
+                    "week": 3,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-29",
+                    "week": 3,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-29",
+                    "week": 3,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-29",
+                    "week": 3,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "DO"
+                }
+            ]
+        },
+        {
+            "day_21": [
+                {
+                    "day": "2019-12-30",
+                    "week": 4,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A1"
+                },
+                {
+                    "day": "2019-12-30",
+                    "week": 4,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-30",
+                    "week": 4,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-30",
+                    "week": 4,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-30",
+                    "week": 4,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-30",
+                    "week": 4,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2019-12-30",
+                    "week": 4,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-30",
+                    "week": 4,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-30",
+                    "week": 4,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                }
+            ],
+            "day_22": [
+                {
+                    "day": "2019-12-31",
+                    "week": 4,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2019-12-31",
+                    "week": 4,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "PH"
+                },
+                {
+                    "day": "2019-12-31",
+                    "week": 4,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "PH"
+                },
+                {
+                    "day": "2019-12-31",
+                    "week": 4,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "PH"
+                },
+                {
+                    "day": "2019-12-31",
+                    "week": 4,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "A1"
+                },
+                {
+                    "day": "2019-12-31",
+                    "week": 4,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-31",
+                    "week": 4,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2019-12-31",
+                    "week": 4,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2019-12-31",
+                    "week": 4,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                }
+            ],
+            "day_23": [
+                {
+                    "day": "2020-01-01",
+                    "week": 4,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2020-01-01",
+                    "week": 4,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "PH"
+                },
+                {
+                    "day": "2020-01-01",
+                    "week": 4,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "PH"
+                },
+                {
+                    "day": "2020-01-01",
+                    "week": 4,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "PH"
+                },
+                {
+                    "day": "2020-01-01",
+                    "week": 4,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2020-01-01",
+                    "week": 4,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2020-01-01",
+                    "week": 4,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2020-01-01",
+                    "week": 4,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2020-01-01",
+                    "week": 4,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A1"
+                }
+            ],
+            "day_24": [
+                {
+                    "day": "2020-01-02",
+                    "week": 4,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2020-01-02",
+                    "week": 4,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2020-01-02",
+                    "week": 4,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2020-01-02",
+                    "week": 4,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2020-01-02",
+                    "week": 4,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2020-01-02",
+                    "week": 4,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2020-01-02",
+                    "week": 4,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2020-01-02",
+                    "week": 4,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2020-01-02",
+                    "week": 4,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                }
+            ],
+            "day_25": [
+                {
+                    "day": "2020-01-03",
+                    "week": 4,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2020-01-03",
+                    "week": 4,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2020-01-03",
+                    "week": 4,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2020-01-03",
+                    "week": 4,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2020-01-03",
+                    "week": 4,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "A1"
+                },
+                {
+                    "day": "2020-01-03",
+                    "week": 4,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2020-01-03",
+                    "week": 4,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2020-01-03",
+                    "week": 4,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2020-01-03",
+                    "week": 4,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A2"
+                }
+            ],
+            "day_26": [
+                {
+                    "day": "2020-01-04",
+                    "week": 4,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2020-01-04",
+                    "week": 4,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2020-01-04",
+                    "week": 4,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2020-01-04",
+                    "week": 4,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2020-01-04",
+                    "week": 4,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2020-01-04",
+                    "week": 4,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2020-01-04",
+                    "week": 4,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2020-01-04",
+                    "week": 4,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2020-01-04",
+                    "week": 4,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "A1"
+                }
+            ],
+            "day_27": [
+                {
+                    "day": "2020-01-05",
+                    "week": 4,
+                    "staff": 1,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2020-01-05",
+                    "week": 4,
+                    "staff": 2,
+                    "agency": "Agency_1",
+                    "shift": "DO"
+                },
+                {
+                    "day": "2020-01-05",
+                    "week": 4,
+                    "staff": 3,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2020-01-05",
+                    "week": 4,
+                    "staff": 4,
+                    "agency": "Agency_1",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2020-01-05",
+                    "week": 4,
+                    "staff": 5,
+                    "agency": "Agency_3",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2020-01-05",
+                    "week": 4,
+                    "staff": 6,
+                    "agency": "Agency_3",
+                    "shift": "A2"
+                },
+                {
+                    "day": "2020-01-05",
+                    "week": 4,
+                    "staff": 7,
+                    "agency": "Agency_2",
+                    "shift": "M2"
+                },
+                {
+                    "day": "2020-01-05",
+                    "week": 4,
+                    "staff": 8,
+                    "agency": "Agency_2",
+                    "shift": "M1"
+                },
+                {
+                    "day": "2020-01-05",
+                    "week": 4,
+                    "staff": 9,
+                    "agency": "Agency_2",
+                    "shift": "DO"
+                }
+            ]
+        }
+    ],
+    "roster_per_staff": [
+        {
+            "staff_1": [
+                {
+                    "date": "2019-12-09",
+                    "week": 1,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2019-12-10",
+                    "week": 1,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-11",
+                    "week": 1,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-12",
+                    "week": 1,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-13",
+                    "week": 1,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-14",
+                    "week": 1,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-15",
+                    "week": 1,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-16",
+                    "week": 2,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2019-12-17",
+                    "week": 2,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-18",
+                    "week": 2,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-19",
+                    "week": 2,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-20",
+                    "week": 2,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-21",
+                    "week": 2,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-22",
+                    "week": 2,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-23",
+                    "week": 3,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2019-12-24",
+                    "week": 3,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-25",
+                    "week": 3,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-26",
+                    "week": 3,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-27",
+                    "week": 3,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-28",
+                    "week": 3,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-29",
+                    "week": 3,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-30",
+                    "week": 4,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2019-12-31",
+                    "week": 4,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2020-01-01",
+                    "week": 4,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2020-01-02",
+                    "week": 4,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2020-01-03",
+                    "week": 4,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2020-01-04",
+                    "week": 4,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2020-01-05",
+                    "week": 4,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "DO"
+                }
+            ],
+            "staff_2": [
+                {
+                    "date": "2019-12-09",
+                    "week": 1,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-10",
+                    "week": 1,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-11",
+                    "week": 1,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-12",
+                    "week": 1,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-13",
+                    "week": 1,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-14",
+                    "week": 1,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-15",
+                    "week": 1,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-16",
+                    "week": 2,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-17",
+                    "week": 2,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-18",
+                    "week": 2,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-19",
+                    "week": 2,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-20",
+                    "week": 2,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-21",
+                    "week": 2,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-22",
+                    "week": 2,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-23",
+                    "week": 3,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-24",
+                    "week": 3,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "PH"
+                },
+                {
+                    "date": "2019-12-25",
+                    "week": 3,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "PH"
+                },
+                {
+                    "date": "2019-12-26",
+                    "week": 3,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-27",
+                    "week": 3,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-28",
+                    "week": 3,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-29",
+                    "week": 3,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-30",
+                    "week": 4,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-31",
+                    "week": 4,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "PH"
+                },
+                {
+                    "date": "2020-01-01",
+                    "week": 4,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "PH"
+                },
+                {
+                    "date": "2020-01-02",
+                    "week": 4,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2020-01-03",
+                    "week": 4,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2020-01-04",
+                    "week": 4,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2020-01-05",
+                    "week": 4,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "DO"
+                }
+            ],
+            "staff_3": [
+                {
+                    "date": "2019-12-09",
+                    "week": 1,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-10",
+                    "week": 1,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-11",
+                    "week": 1,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-12",
+                    "week": 1,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-13",
+                    "week": 1,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-14",
+                    "week": 1,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-15",
+                    "week": 1,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-16",
+                    "week": 2,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-17",
+                    "week": 2,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-18",
+                    "week": 2,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-19",
+                    "week": 2,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-20",
+                    "week": 2,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-21",
+                    "week": 2,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-22",
+                    "week": 2,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-23",
+                    "week": 3,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-24",
+                    "week": 3,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "PH"
+                },
+                {
+                    "date": "2019-12-25",
+                    "week": 3,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "PH"
+                },
+                {
+                    "date": "2019-12-26",
+                    "week": 3,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-27",
+                    "week": 3,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-28",
+                    "week": 3,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-29",
+                    "week": 3,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-30",
+                    "week": 4,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-31",
+                    "week": 4,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "PH"
+                },
+                {
+                    "date": "2020-01-01",
+                    "week": 4,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "PH"
+                },
+                {
+                    "date": "2020-01-02",
+                    "week": 4,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2020-01-03",
+                    "week": 4,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2020-01-04",
+                    "week": 4,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2020-01-05",
+                    "week": 4,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "A2"
+                }
+            ],
+            "staff_4": [
+                {
+                    "date": "2019-12-09",
+                    "week": 1,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-10",
+                    "week": 1,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-11",
+                    "week": 1,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-12",
+                    "week": 1,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-13",
+                    "week": 1,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-14",
+                    "week": 1,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-15",
+                    "week": 1,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-16",
+                    "week": 2,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-17",
+                    "week": 2,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-18",
+                    "week": 2,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-19",
+                    "week": 2,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-20",
+                    "week": 2,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-21",
+                    "week": 2,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-22",
+                    "week": 2,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-23",
+                    "week": 3,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-24",
+                    "week": 3,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "PH"
+                },
+                {
+                    "date": "2019-12-25",
+                    "week": 3,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "PH"
+                },
+                {
+                    "date": "2019-12-26",
+                    "week": 3,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-27",
+                    "week": 3,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-28",
+                    "week": 3,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-29",
+                    "week": 3,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-30",
+                    "week": 4,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-31",
+                    "week": 4,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "PH"
+                },
+                {
+                    "date": "2020-01-01",
+                    "week": 4,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "PH"
+                },
+                {
+                    "date": "2020-01-02",
+                    "week": 4,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2020-01-03",
+                    "week": 4,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2020-01-04",
+                    "week": 4,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2020-01-05",
+                    "week": 4,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "A2"
+                }
+            ],
+            "staff_5": [
+                {
+                    "date": "2019-12-09",
+                    "week": 1,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-10",
+                    "week": 1,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-11",
+                    "week": 1,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2019-12-12",
+                    "week": 1,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-13",
+                    "week": 1,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-14",
+                    "week": 1,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-15",
+                    "week": 1,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-16",
+                    "week": 2,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-17",
+                    "week": 2,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-18",
+                    "week": 2,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2019-12-19",
+                    "week": 2,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-20",
+                    "week": 2,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-21",
+                    "week": 2,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-22",
+                    "week": 2,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-23",
+                    "week": 3,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-24",
+                    "week": 3,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2019-12-25",
+                    "week": 3,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-26",
+                    "week": 3,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-27",
+                    "week": 3,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2019-12-28",
+                    "week": 3,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-29",
+                    "week": 3,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-30",
+                    "week": 4,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-31",
+                    "week": 4,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2020-01-01",
+                    "week": 4,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2020-01-02",
+                    "week": 4,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2020-01-03",
+                    "week": 4,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2020-01-04",
+                    "week": 4,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2020-01-05",
+                    "week": 4,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M2"
+                }
+            ],
+            "staff_6": [
+                {
+                    "date": "2019-12-09",
+                    "week": 1,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-10",
+                    "week": 1,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-11",
+                    "week": 1,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-12",
+                    "week": 1,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-13",
+                    "week": 1,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-14",
+                    "week": 1,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-15",
+                    "week": 1,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-16",
+                    "week": 2,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-17",
+                    "week": 2,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-18",
+                    "week": 2,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-19",
+                    "week": 2,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-20",
+                    "week": 2,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-21",
+                    "week": 2,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-22",
+                    "week": 2,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-23",
+                    "week": 3,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-24",
+                    "week": 3,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-25",
+                    "week": 3,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-26",
+                    "week": 3,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-27",
+                    "week": 3,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-28",
+                    "week": 3,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-29",
+                    "week": 3,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-30",
+                    "week": 4,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-31",
+                    "week": 4,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2020-01-01",
+                    "week": 4,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2020-01-02",
+                    "week": 4,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2020-01-03",
+                    "week": 4,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2020-01-04",
+                    "week": 4,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2020-01-05",
+                    "week": 4,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "A2"
+                }
+            ],
+            "staff_7": [
+                {
+                    "date": "2019-12-09",
+                    "week": 1,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-10",
+                    "week": 1,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-11",
+                    "week": 1,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-12",
+                    "week": 1,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2019-12-13",
+                    "week": 1,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-14",
+                    "week": 1,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-15",
+                    "week": 1,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-16",
+                    "week": 2,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-17",
+                    "week": 2,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-18",
+                    "week": 2,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-19",
+                    "week": 2,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2019-12-20",
+                    "week": 2,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-21",
+                    "week": 2,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-22",
+                    "week": 2,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-23",
+                    "week": 3,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-24",
+                    "week": 3,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-25",
+                    "week": 3,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-26",
+                    "week": 3,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-27",
+                    "week": 3,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-28",
+                    "week": 3,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-29",
+                    "week": 3,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-30",
+                    "week": 4,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-31",
+                    "week": 4,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2020-01-01",
+                    "week": 4,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2020-01-02",
+                    "week": 4,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2020-01-03",
+                    "week": 4,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2020-01-04",
+                    "week": 4,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2020-01-05",
+                    "week": 4,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M2"
+                }
+            ],
+            "staff_8": [
+                {
+                    "date": "2019-12-09",
+                    "week": 1,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-10",
+                    "week": 1,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-11",
+                    "week": 1,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-12",
+                    "week": 1,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-13",
+                    "week": 1,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-14",
+                    "week": 1,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-15",
+                    "week": 1,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-16",
+                    "week": 2,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-17",
+                    "week": 2,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-18",
+                    "week": 2,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-19",
+                    "week": 2,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-20",
+                    "week": 2,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-21",
+                    "week": 2,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-22",
+                    "week": 2,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-23",
+                    "week": 3,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-24",
+                    "week": 3,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-25",
+                    "week": 3,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-26",
+                    "week": 3,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-27",
+                    "week": 3,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-28",
+                    "week": 3,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-29",
+                    "week": 3,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-30",
+                    "week": 4,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-31",
+                    "week": 4,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2020-01-01",
+                    "week": 4,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2020-01-02",
+                    "week": 4,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2020-01-03",
+                    "week": 4,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2020-01-04",
+                    "week": 4,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2020-01-05",
+                    "week": 4,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "M1"
+                }
+            ],
+            "staff_9": [
+                {
+                    "date": "2019-12-09",
+                    "week": 1,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-10",
+                    "week": 1,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-11",
+                    "week": 1,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-12",
+                    "week": 1,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-13",
+                    "week": 1,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-14",
+                    "week": 1,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-15",
+                    "week": 1,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-16",
+                    "week": 2,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-17",
+                    "week": 2,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-18",
+                    "week": 2,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-19",
+                    "week": 2,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-20",
+                    "week": 2,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "M1"
+                },
+                {
+                    "date": "2019-12-21",
+                    "week": 2,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-22",
+                    "week": 2,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-23",
+                    "week": 3,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-24",
+                    "week": 3,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-25",
+                    "week": 3,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2019-12-26",
+                    "week": 3,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-27",
+                    "week": 3,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2019-12-28",
+                    "week": 3,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2019-12-29",
+                    "week": 3,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "DO"
+                },
+                {
+                    "date": "2019-12-30",
+                    "week": 4,
+                    "day": 0,
+                    "dayOfWeek": 0,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2019-12-31",
+                    "week": 4,
+                    "day": 1,
+                    "dayOfWeek": 1,
+                    "dayType": "Holiday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2020-01-01",
+                    "week": 4,
+                    "day": 2,
+                    "dayOfWeek": 2,
+                    "dayType": "Holiday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2020-01-02",
+                    "week": 4,
+                    "day": 3,
+                    "dayOfWeek": 3,
+                    "dayType": "weekday",
+                    "shift": "M2"
+                },
+                {
+                    "date": "2020-01-03",
+                    "week": 4,
+                    "day": 4,
+                    "dayOfWeek": 4,
+                    "dayType": "weekday",
+                    "shift": "A2"
+                },
+                {
+                    "date": "2020-01-04",
+                    "week": 4,
+                    "day": 5,
+                    "dayOfWeek": 5,
+                    "dayType": "weekday",
+                    "shift": "A1"
+                },
+                {
+                    "date": "2020-01-05",
+                    "week": 4,
+                    "day": 6,
+                    "dayOfWeek": 6,
+                    "dayType": "weekend",
+                    "shift": "DO"
+                }
+            ]
+        }
+    ]
+}
