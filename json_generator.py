@@ -19,7 +19,7 @@ default_afternoon_shift_coverage = 3
 #-----Generate staffs data-----
 staffs = []
 
-default_agency = "agency_1"
+default_agency = "Agency_1"
 
 for idx in range(staff_num):
     staff = {
@@ -42,20 +42,6 @@ for staff in staffs:
         staff["alwaysOffOnPH"] = True
     elif staff["id"] in [1, 3, 6]:
         staff["desiredHalfDayShift"] = True
-
-#-----Generate dummy data------
-# dummy = [
-#     {"id": 1,
-#      "agency": "agency_1"
-#      },
-#      {"id": 2,
-#      "agency": "agency_2"
-#      },
-#      {"id": 3,
-#      "agency": "agency_3"
-#      },
-# ]
-
 
 #-----Generate shifts data-----
 shifts = [
@@ -143,13 +129,7 @@ scheduling_data = {
     "periods": periods
 }
 
-with open("scheduling_data.json", "w") as json_file:
+with open("data/scheduling_data.json", "w") as json_file:
     json.dump(scheduling_data, json_file, indent=4)
 
-# with open("scheduling_data.json", "r") as f:
-#     scheduling_data = json.load(f)
-
-# shifts = scheduling_data["shifts"]
-# for shift in shifts:
-#     print(shift['duration'])
 

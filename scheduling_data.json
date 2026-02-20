@@ -2,28 +2,28 @@
     "staffs": [
         {
             "id": 1,
-            "agency": "agency_1",
+            "agency": "Agency_1",
             "fixedShiftGroup": true,
             "alwaysOffOnPH": false,
             "desiredHalfDayShift": false
         },
         {
             "id": 2,
-            "agency": "agency_1",
+            "agency": "Agency_1",
             "fixedShiftGroup": false,
             "alwaysOffOnPH": true,
             "desiredHalfDayShift": false
         },
         {
             "id": 3,
-            "agency": "agency_1",
+            "agency": "Agency_1",
             "fixedShiftGroup": false,
             "alwaysOffOnPH": true,
             "desiredHalfDayShift": false
         },
         {
             "id": 4,
-            "agency": "agency_1",
+            "agency": "Agency_1",
             "fixedShiftGroup": false,
             "alwaysOffOnPH": true,
             "desiredHalfDayShift": false
