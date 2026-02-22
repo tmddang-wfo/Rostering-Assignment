@@ -256,23 +256,27 @@ def relaxed_solve(scheduling_data, current_week):
                                     for k in days_list))
 
 
-    #Each staff must work exactly 44 hours per week (hard) => relaxed
-    code_1 = "Add_hours"
-    s[code_1] = {}
-
-    code_2 = "Minus_hours"
-    s[code_2] = {} 
-  
+    #Each staff must work exactly 44 hours per week (hard) => keep
     for i in staffs_list:
-         v_add = solver.IntVar(0.0, solver.infinity(), f'{code_1}')
-         s[code_1][f'staff_{i}'] = v_add
+         solver.Add(actual_WH[i]== 44)
 
-         v_minus = solver.IntVar(0.0, solver.infinity(), f'{code_2}')
-         s[code_2][f'staff_{i}'] = v_minus
+#     #Each staff must work exactly 44 hours per week (hard) => relaxed version
+#     code_1 = "Add_hours"
+#     s[code_1] = {}
 
-         solver.Add(actual_WH[i] + v_add - v_minus == 44)
-         slack.append(v_add)
-         slack.append(v_minus)
+#     code_2 = "Minus_hours"
+#     s[code_2] = {} 
+  
+#     for i in staffs_list:
+#          v_add = solver.IntVar(0.0, solver.infinity(), f'{code_1}')
+#          s[code_1][f'staff_{i}'] = v_add
+
+#          v_minus = solver.IntVar(0.0, solver.infinity(), f'{code_2}')
+#          s[code_2][f'staff_{i}'] = v_minus
+
+#          solver.Add(actual_WH[i] + v_add - v_minus == 44)
+#          slack.append(v_add)
+#          slack.append(v_minus)
 
     #Undesire afternoon shift after shift DO (soft)
     code = "DO-AM_shifts"

@@ -2,7 +2,7 @@ import json
 import pandas as pd
 from datetime import datetime
 
-input_data_dir = "C:\\Users\\trinh\\WS_Python\\genesix-assignment\\rostering-assignment\\monthly_data.xlsx"
+input_data_dir = "C:\\Users\\trinh\\WS_Python\\genesix-assignment\\rostering-assignment\\data\\monthly_data.xlsx"
 roster_dates = pd.read_excel(input_data_dir, header=None, sheet_name="roster_date")
 
 #-----Scheduling parameters-----
@@ -13,8 +13,6 @@ roster_start_date = "2020-12-09"
 roster_end_date = "2021-01-05"
 days_num = len(roster_dates.columns)
 default_day_type = "weekday"
-default_morning_shift_coverage = 4
-default_afternoon_shift_coverage = 3
 
 #-----Generate staffs data-----
 staffs = []
@@ -106,8 +104,8 @@ for i in range(days_num):
                 "dayOfWeek": date_value.weekday(), 
                 "dayType": default_day_type,
                 "week": day_count // 7 + 1,
-                "morningShiftCov": default_morning_shift_coverage,
-                "afternoonShiftCov": default_afternoon_shift_coverage,
+                "morningShiftCov": 4,
+                "afternoonShiftCov": 3,
                 "isHoliday": False,
             }
     day_count += 1

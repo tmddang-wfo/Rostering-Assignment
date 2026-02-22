@@ -95,7 +95,7 @@ def run_solver():
         print("---------Start solving for ", f'week {current_week}---------')
         result = hard_solve(scheduling_data, current_week)
         if result[0] == None:
-            print("Switch to relaxed solving strategy...")
+            print("Switch to relaxed model...")
             result = relaxed_solve(scheduling_data, current_week)
             x_var, slack_var = result
             export_result(x_var, slack_var, current_week)
@@ -111,11 +111,11 @@ def run_solver():
             "roster_per_day": roster_per_day,
             "roster_per_staff": roster_per_staff
             }
-    with open("result/scheduling_result.json", "w") as json_file:
+    with open("result/Q1/scheduling_result.json", "w") as json_file:
             json.dump(scheduling_result, json_file, indent=4)
     print("Successfully export scheduling results to json")
 
-    with open("result/violations.json", "w") as json_file:
+    with open("result/Q1/violations.json", "w") as json_file:
         json.dump(violations, json_file, indent=4)
     print("Successfully export violation results to json")
 

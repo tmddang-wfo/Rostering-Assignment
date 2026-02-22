@@ -1,7 +1,5 @@
 {
     "week_1": {
-        "Add_hours": [],
-        "Minus_hours": [],
         "DO-AM_shifts": [],
         "PH-AM_shifts": [],
         "3AM_shifts": [],
@@ -15,21 +13,20 @@
                 "slack": 2.0
             },
             {
-                "key": "day_5",
+                "key": "day_3",
                 "slack": 1.0
             },
             {
-                "key": "day_6",
+                "key": "day_4",
+                "slack": 1.0
+            },
+            {
+                "key": "day_5",
                 "slack": 1.0
             }
         ],
         "-AM_General_Cov": [],
-        "+PM_General_Cov": [
-            {
-                "key": "day_3",
-                "slack": 1.0
-            }
-        ],
+        "+PM_General_Cov": [],
         "-PM_General_Cov": [],
         "Morning_Agency_Cov": [
             {
@@ -205,8 +202,6 @@
         ]
     },
     "week_2": {
-        "Add_hours": [],
-        "Minus_hours": [],
         "DO-AM_shifts": [],
         "PH-AM_shifts": [],
         "3AM_shifts": [],
@@ -220,21 +215,20 @@
                 "slack": 2.0
             },
             {
-                "key": "day_12",
+                "key": "day_10",
                 "slack": 1.0
             },
             {
-                "key": "day_13",
+                "key": "day_11",
+                "slack": 1.0
+            },
+            {
+                "key": "day_12",
                 "slack": 1.0
             }
         ],
         "-AM_General_Cov": [],
-        "+PM_General_Cov": [
-            {
-                "key": "day_10",
-                "slack": 1.0
-            }
-        ],
+        "+PM_General_Cov": [],
         "-PM_General_Cov": [],
         "Morning_Agency_Cov": [
             {
@@ -410,21 +404,18 @@
         ]
     },
     "week_3": {
-        "Add_hours": [],
-        "Minus_hours": [],
         "DO-AM_shifts": [],
         "PH-AM_shifts": [],
         "3AM_shifts": [],
-        "+AM_General_Cov": [
-            {
-                "key": "day_17",
-                "slack": 1.0
-            }
-        ],
+        "+AM_General_Cov": [],
         "-AM_General_Cov": [],
         "+PM_General_Cov": [
             {
                 "key": "day_19",
+                "slack": 1.0
+            },
+            {
+                "key": "day_20",
                 "slack": 1.0
             }
         ],
@@ -603,21 +594,18 @@
         ]
     },
     "week_4": {
-        "Add_hours": [],
-        "Minus_hours": [],
         "DO-AM_shifts": [],
         "PH-AM_shifts": [],
         "3AM_shifts": [],
-        "+AM_General_Cov": [
-            {
-                "key": "day_24",
-                "slack": 1.0
-            }
-        ],
+        "+AM_General_Cov": [],
         "-AM_General_Cov": [],
         "+PM_General_Cov": [
             {
                 "key": "day_26",
+                "slack": 1.0
+            },
+            {
+                "key": "day_27",
                 "slack": 1.0
             }
         ],

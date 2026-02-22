@@ -7,7 +7,7 @@
                     "week": 1,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "A1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-09",
@@ -21,28 +21,28 @@
                     "week": 1,
                     "staff": 3,
                     "agency": "Agency_1",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-09",
                     "week": 1,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-09",
                     "week": 1,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-09",
                     "week": 1,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-09",
@@ -56,14 +56,14 @@
                     "week": 1,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-09",
                     "week": 1,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M2"
                 }
             ],
             "day_1": [
@@ -72,7 +72,7 @@
                     "week": 1,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-10",
@@ -86,7 +86,7 @@
                     "week": 1,
                     "staff": 3,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-10",
@@ -100,14 +100,14 @@
                     "week": 1,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-10",
                     "week": 1,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-10",
@@ -121,14 +121,14 @@
                     "week": 1,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-10",
                     "week": 1,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M2"
                 }
             ],
             "day_2": [
@@ -137,28 +137,28 @@
                     "week": 1,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-11",
                     "week": 1,
                     "staff": 2,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-11",
                     "week": 1,
                     "staff": 3,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "M1"
                 },
                 {
                     "day": "2019-12-11",
                     "week": 1,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "M1"
                 },
                 {
                     "day": "2019-12-11",
@@ -172,7 +172,7 @@
                     "week": 1,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-11",
@@ -186,14 +186,14 @@
                     "week": 1,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-11",
                     "week": 1,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "M2"
                 }
             ],
             "day_3": [
@@ -202,14 +202,14 @@
                     "week": 1,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-12",
                     "week": 1,
                     "staff": 2,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-12",
@@ -223,42 +223,42 @@
                     "week": 1,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-12",
                     "week": 1,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-12",
                     "week": 1,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-12",
                     "week": 1,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "A1"
+                    "shift": "M1"
                 },
                 {
                     "day": "2019-12-12",
                     "week": 1,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-12",
                     "week": 1,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M1"
                 }
             ],
             "day_4": [
@@ -267,7 +267,7 @@
                     "week": 1,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-13",
@@ -281,14 +281,14 @@
                     "week": 1,
                     "staff": 3,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-13",
                     "week": 1,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-13",
@@ -302,28 +302,28 @@
                     "week": 1,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "M1"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-13",
                     "week": 1,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "DO"
+                    "shift": "M1"
                 },
                 {
                     "day": "2019-12-13",
                     "week": 1,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-13",
                     "week": 1,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "DO"
                 }
             ],
             "day_5": [
@@ -332,28 +332,28 @@
                     "week": 1,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-14",
                     "week": 1,
                     "staff": 2,
                     "agency": "Agency_1",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-14",
                     "week": 1,
                     "staff": 3,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-14",
                     "week": 1,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-14",
@@ -367,7 +367,7 @@
                     "week": 1,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-14",
@@ -397,21 +397,21 @@
                     "week": 1,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-15",
                     "week": 1,
                     "staff": 2,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-15",
                     "week": 1,
                     "staff": 3,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-15",
@@ -425,35 +425,35 @@
                     "week": 1,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-15",
                     "week": 1,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-15",
                     "week": 1,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-15",
                     "week": 1,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M1"
                 },
                 {
                     "day": "2019-12-15",
                     "week": 1,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "DO"
+                    "shift": "A1"
                 }
             ]
         },
@@ -464,7 +464,7 @@
                     "week": 2,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "A1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-16",
@@ -478,28 +478,28 @@
                     "week": 2,
                     "staff": 3,
                     "agency": "Agency_1",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-16",
                     "week": 2,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-16",
                     "week": 2,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-16",
                     "week": 2,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-16",
@@ -513,14 +513,14 @@
                     "week": 2,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-16",
                     "week": 2,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M2"
                 }
             ],
             "day_8": [
@@ -529,7 +529,7 @@
                     "week": 2,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-17",
@@ -543,7 +543,7 @@
                     "week": 2,
                     "staff": 3,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-17",
@@ -557,14 +557,14 @@
                     "week": 2,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-17",
                     "week": 2,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-17",
@@ -578,14 +578,14 @@
                     "week": 2,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-17",
                     "week": 2,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M2"
                 }
             ],
             "day_9": [
@@ -594,28 +594,28 @@
                     "week": 2,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-18",
                     "week": 2,
                     "staff": 2,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-18",
                     "week": 2,
                     "staff": 3,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "M1"
                 },
                 {
                     "day": "2019-12-18",
                     "week": 2,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "M1"
                 },
                 {
                     "day": "2019-12-18",
@@ -629,7 +629,7 @@
                     "week": 2,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-18",
@@ -643,14 +643,14 @@
                     "week": 2,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-18",
                     "week": 2,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "M2"
                 }
             ],
             "day_10": [
@@ -659,14 +659,14 @@
                     "week": 2,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-19",
                     "week": 2,
                     "staff": 2,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-19",
@@ -680,42 +680,42 @@
                     "week": 2,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-19",
                     "week": 2,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-19",
                     "week": 2,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-19",
                     "week": 2,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "A1"
+                    "shift": "M1"
                 },
                 {
                     "day": "2019-12-19",
                     "week": 2,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-19",
                     "week": 2,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M1"
                 }
             ],
             "day_11": [
@@ -724,7 +724,7 @@
                     "week": 2,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-20",
@@ -738,14 +738,14 @@
                     "week": 2,
                     "staff": 3,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-20",
                     "week": 2,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-20",
@@ -759,28 +759,28 @@
                     "week": 2,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "M1"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-20",
                     "week": 2,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "DO"
+                    "shift": "M1"
                 },
                 {
                     "day": "2019-12-20",
                     "week": 2,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-20",
                     "week": 2,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "DO"
                 }
             ],
             "day_12": [
@@ -789,28 +789,28 @@
                     "week": 2,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-21",
                     "week": 2,
                     "staff": 2,
                     "agency": "Agency_1",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-21",
                     "week": 2,
                     "staff": 3,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-21",
                     "week": 2,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-21",
@@ -824,7 +824,7 @@
                     "week": 2,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-21",
@@ -854,21 +854,21 @@
                     "week": 2,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-22",
                     "week": 2,
                     "staff": 2,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-22",
                     "week": 2,
                     "staff": 3,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-22",
@@ -882,35 +882,35 @@
                     "week": 2,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-22",
                     "week": 2,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-22",
                     "week": 2,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-22",
                     "week": 2,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M1"
                 },
                 {
                     "day": "2019-12-22",
                     "week": 2,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "DO"
+                    "shift": "A1"
                 }
             ]
         },
@@ -921,7 +921,7 @@
                     "week": 3,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "A1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-23",
@@ -949,21 +949,21 @@
                     "week": 3,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-23",
                     "week": 3,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "DO"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-23",
                     "week": 3,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-23",
@@ -977,7 +977,7 @@
                     "week": 3,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "M2"
+                    "shift": "M1"
                 }
             ],
             "day_15": [
@@ -1014,21 +1014,21 @@
                     "week": 3,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "A1"
+                    "shift": "M1"
                 },
                 {
                     "day": "2019-12-24",
                     "week": 3,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-24",
                     "week": 3,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-24",
@@ -1051,7 +1051,7 @@
                     "week": 3,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-25",
@@ -1086,7 +1086,7 @@
                     "week": 3,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-25",
@@ -1100,14 +1100,14 @@
                     "week": 3,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-25",
                     "week": 3,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "A1"
+                    "shift": "A2"
                 }
             ],
             "day_17": [
@@ -1116,14 +1116,14 @@
                     "week": 3,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "M1"
                 },
                 {
                     "day": "2019-12-26",
                     "week": 3,
                     "staff": 2,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-26",
@@ -1137,42 +1137,42 @@
                     "week": 3,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "DO"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-26",
                     "week": 3,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "M2"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-26",
                     "week": 3,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-26",
                     "week": 3,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-26",
                     "week": 3,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-26",
                     "week": 3,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "M2"
+                    "shift": "DO"
                 }
             ],
             "day_18": [
@@ -1181,7 +1181,7 @@
                     "week": 3,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-27",
@@ -1202,21 +1202,21 @@
                     "week": 3,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-27",
                     "week": 3,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "A1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-27",
                     "week": 3,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-27",
@@ -1230,14 +1230,14 @@
                     "week": 3,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-27",
                     "week": 3,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M1"
                 }
             ],
             "day_19": [
@@ -1274,35 +1274,35 @@
                     "week": 3,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-28",
                     "week": 3,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-28",
                     "week": 3,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-28",
                     "week": 3,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-28",
                     "week": 3,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "A1"
+                    "shift": "A2"
                 }
             ],
             "day_20": [
@@ -1318,7 +1318,7 @@
                     "week": 3,
                     "staff": 2,
                     "agency": "Agency_1",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "day": "2019-12-29",
@@ -1332,21 +1332,21 @@
                     "week": 3,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-29",
                     "week": 3,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-29",
                     "week": 3,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-29",
@@ -1360,14 +1360,14 @@
                     "week": 3,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-29",
                     "week": 3,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "DO"
+                    "shift": "A2"
                 }
             ]
         },
@@ -1378,7 +1378,7 @@
                     "week": 4,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "A1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-30",
@@ -1406,21 +1406,21 @@
                     "week": 4,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2019-12-30",
                     "week": 4,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "DO"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-30",
                     "week": 4,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-30",
@@ -1434,7 +1434,7 @@
                     "week": 4,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "M2"
+                    "shift": "M1"
                 }
             ],
             "day_22": [
@@ -1471,21 +1471,21 @@
                     "week": 4,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "A1"
+                    "shift": "M1"
                 },
                 {
                     "day": "2019-12-31",
                     "week": 4,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2019-12-31",
                     "week": 4,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2019-12-31",
@@ -1508,7 +1508,7 @@
                     "week": 4,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "M1"
+                    "shift": "A2"
                 },
                 {
                     "day": "2020-01-01",
@@ -1543,7 +1543,7 @@
                     "week": 4,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2020-01-01",
@@ -1557,14 +1557,14 @@
                     "week": 4,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2020-01-01",
                     "week": 4,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "A1"
+                    "shift": "A2"
                 }
             ],
             "day_24": [
@@ -1573,14 +1573,14 @@
                     "week": 4,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "M1"
                 },
                 {
                     "day": "2020-01-02",
                     "week": 4,
                     "staff": 2,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2020-01-02",
@@ -1594,42 +1594,42 @@
                     "week": 4,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "DO"
+                    "shift": "M2"
                 },
                 {
                     "day": "2020-01-02",
                     "week": 4,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "M2"
+                    "shift": "A2"
                 },
                 {
                     "day": "2020-01-02",
                     "week": 4,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2020-01-02",
                     "week": 4,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2020-01-02",
                     "week": 4,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2020-01-02",
                     "week": 4,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "M2"
+                    "shift": "DO"
                 }
             ],
             "day_25": [
@@ -1638,7 +1638,7 @@
                     "week": 4,
                     "staff": 1,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2020-01-03",
@@ -1659,21 +1659,21 @@
                     "week": 4,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2020-01-03",
                     "week": 4,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "A1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2020-01-03",
                     "week": 4,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2020-01-03",
@@ -1687,14 +1687,14 @@
                     "week": 4,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "day": "2020-01-03",
                     "week": 4,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "A2"
+                    "shift": "M1"
                 }
             ],
             "day_26": [
@@ -1731,35 +1731,35 @@
                     "week": 4,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "day": "2020-01-04",
                     "week": 4,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "DO"
                 },
                 {
                     "day": "2020-01-04",
                     "week": 4,
                     "staff": 7,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2020-01-04",
                     "week": 4,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "day": "2020-01-04",
                     "week": 4,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "A1"
+                    "shift": "A2"
                 }
             ],
             "day_27": [
@@ -1775,7 +1775,7 @@
                     "week": 4,
                     "staff": 2,
                     "agency": "Agency_1",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "day": "2020-01-05",
@@ -1789,21 +1789,21 @@
                     "week": 4,
                     "staff": 4,
                     "agency": "Agency_1",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2020-01-05",
                     "week": 4,
                     "staff": 5,
                     "agency": "Agency_3",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "day": "2020-01-05",
                     "week": 4,
                     "staff": 6,
                     "agency": "Agency_3",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "day": "2020-01-05",
@@ -1817,14 +1817,14 @@
                     "week": 4,
                     "staff": 8,
                     "agency": "Agency_2",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "day": "2020-01-05",
                     "week": 4,
                     "staff": 9,
                     "agency": "Agency_2",
-                    "shift": "DO"
+                    "shift": "A2"
                 }
             ]
         }
@@ -1838,7 +1838,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "A1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-10",
@@ -1846,7 +1846,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-11",
@@ -1854,7 +1854,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-12",
@@ -1862,7 +1862,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-13",
@@ -1870,7 +1870,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-14",
@@ -1878,7 +1878,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-15",
@@ -1886,7 +1886,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "A2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-16",
@@ -1894,7 +1894,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "A1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-17",
@@ -1902,7 +1902,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-18",
@@ -1910,7 +1910,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-19",
@@ -1918,7 +1918,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-20",
@@ -1926,7 +1926,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-21",
@@ -1934,7 +1934,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-22",
@@ -1942,7 +1942,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "A2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-23",
@@ -1950,7 +1950,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "A1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-24",
@@ -1966,7 +1966,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "Holiday",
-                    "shift": "M1"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-26",
@@ -1974,7 +1974,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-27",
@@ -1982,7 +1982,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-28",
@@ -2006,7 +2006,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "A1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-31",
@@ -2022,7 +2022,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "Holiday",
-                    "shift": "M1"
+                    "shift": "A2"
                 },
                 {
                     "date": "2020-01-02",
@@ -2030,7 +2030,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2020-01-03",
@@ -2038,7 +2038,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2020-01-04",
@@ -2080,7 +2080,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-12",
@@ -2088,7 +2088,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-13",
@@ -2104,7 +2104,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-15",
@@ -2112,7 +2112,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "M2"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-16",
@@ -2136,7 +2136,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-19",
@@ -2144,7 +2144,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-20",
@@ -2160,7 +2160,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-22",
@@ -2168,7 +2168,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "M2"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-23",
@@ -2200,7 +2200,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-27",
@@ -2224,7 +2224,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-30",
@@ -2256,7 +2256,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2020-01-03",
@@ -2280,7 +2280,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "DO"
+                    "shift": "A2"
                 }
             ],
             "staff_3": [
@@ -2290,7 +2290,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-10",
@@ -2298,7 +2298,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-11",
@@ -2306,7 +2306,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-12",
@@ -2322,7 +2322,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-14",
@@ -2330,7 +2330,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-15",
@@ -2338,7 +2338,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-16",
@@ -2346,7 +2346,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-17",
@@ -2354,7 +2354,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-18",
@@ -2362,7 +2362,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-19",
@@ -2378,7 +2378,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-21",
@@ -2386,7 +2386,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-22",
@@ -2394,7 +2394,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-23",
@@ -2516,7 +2516,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-10",
@@ -2532,7 +2532,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-12",
@@ -2540,7 +2540,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-13",
@@ -2548,7 +2548,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-14",
@@ -2556,7 +2556,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-15",
@@ -2572,7 +2572,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-17",
@@ -2588,7 +2588,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-19",
@@ -2596,7 +2596,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-20",
@@ -2604,7 +2604,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-21",
@@ -2612,7 +2612,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-22",
@@ -2652,7 +2652,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-27",
@@ -2660,7 +2660,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-28",
@@ -2676,7 +2676,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-30",
@@ -2708,7 +2708,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "M2"
                 },
                 {
                     "date": "2020-01-03",
@@ -2716,7 +2716,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2020-01-04",
@@ -2732,7 +2732,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "A2"
+                    "shift": "M2"
                 }
             ],
             "staff_5": [
@@ -2742,7 +2742,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-10",
@@ -2750,7 +2750,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-11",
@@ -2766,7 +2766,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-13",
@@ -2790,7 +2790,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "A2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-16",
@@ -2798,7 +2798,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-17",
@@ -2806,7 +2806,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-18",
@@ -2822,7 +2822,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-20",
@@ -2846,7 +2846,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "A2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-23",
@@ -2854,7 +2854,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-24",
@@ -2862,7 +2862,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "Holiday",
-                    "shift": "A1"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-25",
@@ -2878,7 +2878,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-27",
@@ -2886,7 +2886,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "A1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-28",
@@ -2894,7 +2894,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-29",
@@ -2902,7 +2902,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-30",
@@ -2910,7 +2910,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-31",
@@ -2918,7 +2918,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "Holiday",
-                    "shift": "A1"
+                    "shift": "M1"
                 },
                 {
                     "date": "2020-01-01",
@@ -2934,7 +2934,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A2"
                 },
                 {
                     "date": "2020-01-03",
@@ -2942,7 +2942,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "A1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2020-01-04",
@@ -2950,7 +2950,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "date": "2020-01-05",
@@ -2958,7 +2958,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "M2"
+                    "shift": "A1"
                 }
             ],
             "staff_6": [
@@ -2968,7 +2968,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-10",
@@ -2976,7 +2976,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-11",
@@ -2984,7 +2984,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-12",
@@ -2992,7 +2992,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-13",
@@ -3000,7 +3000,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-14",
@@ -3008,7 +3008,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-15",
@@ -3016,7 +3016,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-16",
@@ -3024,7 +3024,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-17",
@@ -3032,7 +3032,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-18",
@@ -3040,7 +3040,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-19",
@@ -3048,7 +3048,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-20",
@@ -3056,7 +3056,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-21",
@@ -3064,7 +3064,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-22",
@@ -3072,7 +3072,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-23",
@@ -3080,7 +3080,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-24",
@@ -3088,7 +3088,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "Holiday",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-25",
@@ -3096,7 +3096,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "Holiday",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-26",
@@ -3104,7 +3104,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-27",
@@ -3112,7 +3112,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-28",
@@ -3120,7 +3120,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-29",
@@ -3128,7 +3128,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-30",
@@ -3136,7 +3136,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-31",
@@ -3144,7 +3144,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "Holiday",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2020-01-01",
@@ -3152,7 +3152,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "Holiday",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2020-01-02",
@@ -3160,7 +3160,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2020-01-03",
@@ -3168,7 +3168,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2020-01-04",
@@ -3176,7 +3176,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2020-01-05",
@@ -3184,7 +3184,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "A2"
+                    "shift": "M2"
                 }
             ],
             "staff_7": [
@@ -3218,7 +3218,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "A1"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-13",
@@ -3226,7 +3226,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-14",
@@ -3242,7 +3242,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-16",
@@ -3274,7 +3274,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "A1"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-20",
@@ -3282,7 +3282,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-21",
@@ -3298,7 +3298,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-23",
@@ -3306,7 +3306,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-24",
@@ -3314,7 +3314,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "Holiday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-25",
@@ -3330,7 +3330,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-27",
@@ -3346,7 +3346,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-29",
@@ -3362,7 +3362,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-31",
@@ -3370,7 +3370,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "Holiday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2020-01-01",
@@ -3386,7 +3386,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2020-01-03",
@@ -3402,7 +3402,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2020-01-05",
@@ -3420,7 +3420,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-10",
@@ -3428,7 +3428,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-11",
@@ -3436,7 +3436,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-12",
@@ -3444,7 +3444,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-13",
@@ -3452,7 +3452,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-14",
@@ -3468,7 +3468,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "A2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-16",
@@ -3476,7 +3476,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-17",
@@ -3484,7 +3484,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-18",
@@ -3492,7 +3492,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-19",
@@ -3500,7 +3500,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-20",
@@ -3508,7 +3508,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-21",
@@ -3524,7 +3524,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "A2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-23",
@@ -3548,7 +3548,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "Holiday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-26",
@@ -3556,7 +3556,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-27",
@@ -3564,7 +3564,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-28",
@@ -3572,7 +3572,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-29",
@@ -3580,7 +3580,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-30",
@@ -3604,7 +3604,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "Holiday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2020-01-02",
@@ -3612,7 +3612,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "A1"
                 },
                 {
                     "date": "2020-01-03",
@@ -3620,7 +3620,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "date": "2020-01-04",
@@ -3628,7 +3628,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2020-01-05",
@@ -3636,7 +3636,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "M1"
+                    "shift": "DO"
                 }
             ],
             "staff_9": [
@@ -3646,7 +3646,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-10",
@@ -3654,7 +3654,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-11",
@@ -3662,7 +3662,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-12",
@@ -3670,7 +3670,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-13",
@@ -3678,7 +3678,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-14",
@@ -3694,7 +3694,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-16",
@@ -3702,7 +3702,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-17",
@@ -3710,7 +3710,7 @@
                     "day": 1,
                     "dayOfWeek": 1,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-18",
@@ -3718,7 +3718,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "M2"
                 },
                 {
                     "date": "2019-12-19",
@@ -3726,7 +3726,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-20",
@@ -3734,7 +3734,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "M1"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-21",
@@ -3750,7 +3750,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "DO"
+                    "shift": "A1"
                 },
                 {
                     "date": "2019-12-23",
@@ -3758,7 +3758,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-24",
@@ -3774,7 +3774,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "Holiday",
-                    "shift": "A1"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-26",
@@ -3782,7 +3782,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2019-12-27",
@@ -3790,7 +3790,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-28",
@@ -3798,7 +3798,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "A1"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-29",
@@ -3806,7 +3806,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "DO"
+                    "shift": "A2"
                 },
                 {
                     "date": "2019-12-30",
@@ -3814,7 +3814,7 @@
                     "day": 0,
                     "dayOfWeek": 0,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2019-12-31",
@@ -3830,7 +3830,7 @@
                     "day": 2,
                     "dayOfWeek": 2,
                     "dayType": "Holiday",
-                    "shift": "A1"
+                    "shift": "A2"
                 },
                 {
                     "date": "2020-01-02",
@@ -3838,7 +3838,7 @@
                     "day": 3,
                     "dayOfWeek": 3,
                     "dayType": "weekday",
-                    "shift": "M2"
+                    "shift": "DO"
                 },
                 {
                     "date": "2020-01-03",
@@ -3846,7 +3846,7 @@
                     "day": 4,
                     "dayOfWeek": 4,
                     "dayType": "weekday",
-                    "shift": "A2"
+                    "shift": "M1"
                 },
                 {
                     "date": "2020-01-04",
@@ -3854,7 +3854,7 @@
                     "day": 5,
                     "dayOfWeek": 5,
                     "dayType": "weekday",
-                    "shift": "A1"
+                    "shift": "A2"
                 },
                 {
                     "date": "2020-01-05",
@@ -3862,7 +3862,7 @@
                     "day": 6,
                     "dayOfWeek": 6,
                     "dayType": "weekend",
-                    "shift": "DO"
+                    "shift": "A2"
                 }
             ]
         }
